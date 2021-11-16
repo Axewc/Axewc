@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/axewc"><img src="https://github.com/Axewc/Axewc/blob/main/devcard.svg" width="200" alt="Axel's Dev Card"/></a>
+<a href="https://app.daily.dev/axewc"><img src="https://github.com/Axewc/Axewc/blob/main/devcard.svg" width="250" alt="Axel's Dev Card"/></a>
