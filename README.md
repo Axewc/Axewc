@@ -16,12 +16,19 @@
 <a href="https://app.daily.dev/axewc"> <img align="right" img src="https://github.com/Axewc/Axewc/blob/main/devcard.svg" width="250" alt="Axel's Dev Card"/>
 
 - 🔭 I’m currently working on Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero illo,
+  
 - 🌱 I’m currently learning Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero illo,
+  
 - 👯 I’m looking to collaborate on Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero illo,
+  
 - 🤔 I’m looking for help with Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero illo,
+  
 - 💬 Ask me about Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero illo,
+  
 - 📫 How to reach me: Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero illo,
+  
 - 😄 Pronouns: Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero illo,
+  
 - ⚡ Fun fact: Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero illo,
 
 <!-- <a href="https://app.daily.dev/axewc"> <img align="right" img src="https://github.com/Axewc/Axewc/blob/main/devcard.svg" width="250" alt="Axel's Dev Card"/></a>
