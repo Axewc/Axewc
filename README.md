@@ -13,7 +13,7 @@
 <h3 align="center">Don't read everything you believe.</h3>
 
 ## 🦊 About me
-<a href="https://app.daily.dev/axewc"> <img align="right" img src="https://github.com/Axewc/Axewc/blob/main/devcard.svg" width="250" alt="Axel's Dev Card"/>
+<a href="https://app.daily.dev/axewc"> <img align="right" img src="https://github.com/Axewc/Axewc/blob/main/devcard.svg" width="260" alt="Axel's Dev Card"/>
 
 - 🔭 I’m currently working on Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero illo,
   
