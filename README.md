@@ -77,3 +77,6 @@
   My social media.
 -->
 ##  My Socials !
+  - My Linkedin 
+
+  <a h ref= "https://www.linkedin.com/in/axewc/" > <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="Linkedin" /></a>
