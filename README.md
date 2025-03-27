@@ -2,7 +2,9 @@
   My presentation
 -->
 <h1 align="center">💥 Hi there, I'm Axel! 👋 💥</h1>
-<h3 align="center">👨‍💻 Computer Science || 💻 Web Development || 🎮 Videogames</h3>
+<h3 align="center">
+👨‍💻 Computer Science || 💻 Web Development || 📊 Data Science || 📚 Machine Learning
+</h3>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
