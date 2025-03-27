@@ -85,7 +85,7 @@
 
 [![Axewc's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Axewc&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Axewc&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--
   My social media.
