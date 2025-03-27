@@ -66,14 +66,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-<!--
-  My projects
--->
-## 🚀 My Projects
-
 <img align="right" alt="GIF" height="250" src="https://c.tenor.com/87F-ga-VtA0AAAAC/anime-chill.gif" />
-
-
 
 <!--
   Github stats
