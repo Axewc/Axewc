@@ -12,9 +12,7 @@
 
 ## 🦊 About me
 
-<a href="https://app.daily.dev/axewc"> 
-  <img align="right" src="https://github.com/Axewc/Axewc/blob/main/devcard.svg" width="260" alt="Axel's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/axewc"><img src="https://api.daily.dev/devcards/v2/uZecdluKQmFTleYISFK0I.png?r=6tp" width="356" alt="Axel's Dev Card"/></a>>
 
 - 🔭 I’m currently working on Distroller as a Junior Back-end Developer!
 - 🌱 I’m currently learning about Data Science, Backend & more.
