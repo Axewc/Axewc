@@ -14,9 +14,9 @@
 
 <a href="https://app.daily.dev/axewc"><img src="https://api.daily.dev/devcards/v2/uZecdluKQmFTleYISFK0I.png?r=6tp" width="356" alt="Axel's Dev Card"/></a>>
 
-- 🔭 I’m currently working on Distroller as a Junior Back-end Developer!
-- 🌱 I’m currently learning about Data Science, Backend & more.
-- 👯 I’m looking to collaborate on great projects.
+- 🔭 I’m currently working at XS Global as a Junior Catastrophe Modeler!
+- 🌱 I’m currently learning about Data Science, Reinsurance & more.
+- 👯 I’m looking to collaborate on automatization b2b.
 - 🤔 I’m looking for help to learn and collaborate in LLM.
 
 <!-- Languages and Tools-->
